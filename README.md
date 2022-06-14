@@ -1,4 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://www.grmdocumentmanagement.com/wp-content/uploads/2020/10/medical-coding-workflow.png" width="300"/>
+
+## ✨ Welcome to my Github ✨
+
+My name is **Julia Agra** and I live in **Brazil**. I'm a FrontEnd Developer, with experience in JavaScript | Typescript | ReactJs | Ruby on Rails. :heart:
+
+Get in contact!
+- :speech_balloon: Add me on discord: [`TiaGoiNsaNy#9903`](https://discord.com/users/568182075929395210)
+- :mailbox: Send me an Email: [`agramartinsj@gmail.com`](maito:agramartinsj@gmail.com)
+- :busts_in_silhouette: Add me on Linkedin: [linkedin/in/juliaamartins](https://www.linkedin.com/in/juliaamartins/)
 
 <!--
 **martinsju/martinsju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
