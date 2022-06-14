@@ -2,7 +2,7 @@
 
 ## ✨ Welcome to my Github ✨
 
-My name is **Julia Agra** and I live in **Brazil**. I'm a FrontEnd Developer, with experience in JavaScript | Typescript | ReactJs | Ruby on Rails. :heart:
+My name is **Julia Agra** and I live in **Brazil**. I'm currently a FrontEnd Developer, with experience in JavaScript, Typescript and ReactJs. Also have some experience in Ruby on Rails and Java. :heart:
 
 Get in contact!
 <!-- :speech_balloon: Add me on discord: [`TiaGoiNsaNy#9903`](https://discord.com/users/568182075929395210)-->
