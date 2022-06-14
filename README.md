@@ -5,7 +5,7 @@
 My name is **Julia Agra** and I live in **Brazil**. I'm a FrontEnd Developer, with experience in JavaScript | Typescript | ReactJs | Ruby on Rails. :heart:
 
 Get in contact!
-- :speech_balloon: Add me on discord: [`TiaGoiNsaNy#9903`](https://discord.com/users/568182075929395210)
+<!-- :speech_balloon: Add me on discord: [`TiaGoiNsaNy#9903`](https://discord.com/users/568182075929395210)-->
 - :mailbox: Send me an Email: [`agramartinsj@gmail.com`](maito:agramartinsj@gmail.com)
 - :busts_in_silhouette: Add me on Linkedin: [linkedin/in/juliaamartins](https://www.linkedin.com/in/juliaamartins/)
 
