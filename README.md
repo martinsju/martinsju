@@ -9,7 +9,7 @@ My name is **Julia Agra** and I live in **Brazil**. I currently work as a FrontE
 
 <div style="">
 <a href="https://github.com/martinsju">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsju&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsju&layout=compact&langs_count=7&theme=react"/>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinsju&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  -->
 </div>
   
