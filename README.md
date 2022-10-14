@@ -1,7 +1,7 @@
 <img align="right" src="https://www.grmdocumentmanagement.com/wp-content/uploads/2020/10/medical-coding-workflow.png" width="260"/>
 
 
-## ✨ Welcome to my Github ✨
+## ✨ Hey there ✨
 
 My name is Julia Agra and I live in Brazil. I currently work as a FrontEnd Developer, with experience in HTML, CSS, JavaScript, ReactJS, Typescript, Next.js among other React libs. I've been working with UI/UX design prototyping using Figma for almost 3 years. I have some personal projects in Ruby on Rails, Java and also worked for 2 years teaching C# for game development. :heart:
 
