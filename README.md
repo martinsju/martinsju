@@ -3,7 +3,7 @@
 
 ## ✨ Welcome to my Github ✨
 
-My name is **Julia Agra** and I live in **Brazil**. I currently work as a FrontEnd Developer, with experience in HTML, CSS, JavaScript, looking for a Front-End Enginner career with Typescript, ReactJs and Next.js. I've been working with UI/UX design using Figma for over 2 years. Also have some personal projects in Ruby on Rails and Java. :heart:
+My name is Julia Agra and I live in Brazil. I currently work as a FrontEnd Developer, with experience in HTML, CSS, JavaScript, ReactJS, Typescript, Next.js among other React libs. I've been working with UI/UX design prototyping using Figma for almost 3 years. I have some personal projects in Ruby on Rails, Java and also worked for 2 years teaching C# for game development. :heart:
 
 </br>
 
