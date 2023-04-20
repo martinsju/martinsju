@@ -3,7 +3,9 @@
 
 ## ✨ Hey there ✨
 
-My name is Julia Agra and I live in Brazil. I currently work as a FrontEnd Developer, with experience in HTML, CSS, JavaScript, ReactJS, Typescript, Next.js among other React libs. I've been working with UI/UX design prototyping using Figma for almost 3 years. I have some personal projects in Ruby on Rails, Java and also worked for 2 years teaching C# for game development. :heart:
+My name is Julia Agra and I currently live in Brazil. I work as a Front-end developer, with more than 5 years of experience working with web applications, from websites, landing pages, e-commerces and systems, always looking for optimization and great user experience.
+
+I also have a community of developers who want to have a great network, talk about programming, and solve problems. I often stream live-codings on TwitchTV, coding ReactJS projects, and prototyping some Figma layouts. :heart:
 
 </br>
 
