@@ -3,7 +3,7 @@
 
 ## ✨ Hey there ✨
 
-My name is Julia Agra and I currently live in Brazil. I work as a Front-end developer, with more than 5 years of experience working with web applications, from websites, landing pages, e-commerces and systems, always looking for optimization and great user experience.
+My name is Julia Agra and I currently live in Brazil. I work as a Front-end developer, with over 5 years of experience working with web applications, from websites, landing pages, e-commerces and systems, always looking for optimization and great user experience.
 
 I also have a community of developers who want to have a great network, talk about programming, and solve problems. I often stream live-codings on TwitchTV, coding ReactJS projects, and prototyping some Figma layouts. :heart:
 
