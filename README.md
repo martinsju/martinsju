@@ -7,7 +7,7 @@ My name is Julia Agra and I currently live in Brazil. I work as a Front-end soft
 
 I also have a community of developers who want to have a great network, talk about programming, and solve problems. I often stream live-codings on TwitchTV, coding ReactJS projects, and prototyping some Figma layouts. :heart:
 
-<a href="https://discord.gg/DXgu8FFwwE" target="_blank"><img src="https://img.shields.io/badge/Join_our_community_here-3AD4DE" target="_blank"></a>
+<a href="https://discord.gg/DXgu8FFwwE" target="_blank"><img src="https://img.shields.io/badge/Join_our_community_here-3AB8DE" target="_blank"></a>
 
 </br>
 
