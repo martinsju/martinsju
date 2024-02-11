@@ -9,6 +9,8 @@ I also have a community of developers who want to have a great network, talk abo
 
 [Join our community here](https://img.shields.io/badge/Join%20our%20community?style=plastic&color=%23dedede&link=https%3A%2F%2Fdiscord.gg%2FDXgu8FFwwE
 )
+<img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Join%20our%20community?style=plastic&color=%23dedede&link=https%3A%2F%2Fdiscord.gg%2FDXgu8FFwwE
+)" target="_blank">
 
 </br>
 
