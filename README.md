@@ -3,9 +3,12 @@
 
 ## ✨ Hey there ✨
 
-My name is Julia Agra and I currently live in Brazil. I work as a Front-end developer, with over 5 years of experience working with web applications, from websites, landing pages, e-commerces and systems, always looking for optimization and great user experience.
+My name is Julia Agra and I currently live in Brazil. I work as a Front-end software engineer, with over 6 years of experience working with web applications, websites and landing pages building, e-commerces and systems, always looking for optimization and great user experience. I have great experience in UI/UX design with Figma and also in backend with C# for game development and .Net APIs. 
 
 I also have a community of developers who want to have a great network, talk about programming, and solve problems. I often stream live-codings on TwitchTV, coding ReactJS projects, and prototyping some Figma layouts. :heart:
+
+[Join our community here](https://img.shields.io/badge/Join%20our%20community?style=plastic&color=%23dedede&link=https%3A%2F%2Fdiscord.gg%2FDXgu8FFwwE
+)
 
 </br>
 
